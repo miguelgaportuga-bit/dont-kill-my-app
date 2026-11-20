@@ -1,5 +1,5 @@
 ---
-manufacturer: samsung
+manufacturer:samsunga07
 
 ---
 
